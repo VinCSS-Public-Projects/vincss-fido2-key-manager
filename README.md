@@ -1,3 +1,15 @@
+## VinCSS SK Manager Tool - Tính năng chính
+
+- **Kết nối và hiển thị thông tin khóa bảo mật**: Tự động nhận diện và hiển thị các khóa bảo mật đang kết nối (tên, pin, vân tay, phiên bản firmware, dung lượng pin).
+- **Quản lý PIN**: Thiết lập, thay đổi PIN (4-63 ký tự, hỗ trợ ký tự đặc biệt) cho khóa bảo mật.
+- **Quản lý vân tay** *(chỉ cho VinCSS FIDO2 Fingerprint)*: Thêm, đổi tên, xóa vân tay (tối đa 5 vân tay).
+- **Quản lý Bluetooth** *(chỉ cho VinCSS FIDO2 Fingerprint)*: Xem/chỉnh sửa tên thiết bị, PIN Bluetooth, xóa cache kết nối.
+- **Quản lý Credential**: Xem, tìm kiếm, xóa từng hoặc toàn bộ credential đã lưu trên khóa.
+- **Reset khóa bảo mật**: Đưa khóa về trạng thái mặc định, xóa toàn bộ dữ liệu/credential.
+- **Cập nhật firmware**: Kiểm tra và nâng cấp firmware khóa bảo mật với 4 bước an toàn, hỗ trợ khôi phục khi lỗi hoặc mất kết nối.
+- **Xem và gửi log**: Xem nhật ký hoạt động của khóa bảo mật, gửi phản hồi trực tiếp đến VinCSS.
+
+
 ## Hướng dẫn cài đặt VinCSS SK Manager Tool
 
 ### **Windows**
